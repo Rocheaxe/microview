@@ -1,3 +1,10 @@
+/* 
+ * microview_wink: a simple winking face animation for the MicroView
+ * 
+ * Created by: Terri Oda <terri (at) toybox.ca>
+ * Sept 16, 2014
+ */
+
 #include <MicroView.h>
 
 void setup() {
